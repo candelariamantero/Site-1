@@ -1,0 +1,52 @@
+h1{
+	color: #5a2a6e;
+}
+body{
+	background-color: #fdf0d5;
+	background-image: url(rosado.jpg);
+}
+.redParagraph{
+	color: #f00;
+}
+.blueParagraph{
+	color: #00f;
+}
+h3{
+	color: #000000;
+	font-family: cursive;
+	text-align: center;
+}
+img{
+	border-radius: 25px;
+}
+img:hover{
+	width:90%;
+}
+ul{
+	list-style-type: none;
+	background-color: #f7ebcb;
+	overflow: hidden;
+}
+ul li{
+	float: left;
+	text-align: center;
+}
+ul li a{
+	text-decoration: none;
+	display: block;
+	width: 75px;
+	padding: 14px 15px;
+	color: #f50294;
+}	
+ul li a:hover{
+	background-color: #d9d693;
+	display: block;
+	width: 75px;
+	padding: 14px 15px;
+	color: #c2be6e;
+}
+.active{
+	font-weight: bold;
+	border-bottom: solid 4px #cf2183;
+}
+
